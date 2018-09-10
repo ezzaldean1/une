@@ -20,7 +20,11 @@ client.on('ready', () => {
             var prefix = "u" ;
 	
 
+client.on('ready', () => {
 
+    client.channels.find(c => c.id === '485555339110907916').join();
+
+});
 
 
 const adminprefix = "e";//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
