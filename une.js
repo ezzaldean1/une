@@ -22,7 +22,7 @@ client.on('ready', () => {
 
 client.on('ready', () => {
 
-    client.channels.find(c => c.id === '485555339110907916').join();
+    client.channels.find(c => c.id === '495229092476747776').join();
 
 });
 
